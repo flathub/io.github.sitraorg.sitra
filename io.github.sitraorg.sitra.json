@@ -1,7 +1,7 @@
 {
     "id": "io.github.sitraorg.sitra",
     "runtime": "org.gnome.Platform",
-    "runtime-version": "49",
+    "runtime-version": "50",
     "sdk": "org.gnome.Sdk",
     "command": "sitra",
     "finish-args": [
@@ -15,14 +15,8 @@
     "cleanup": [
         "/include",
         "/lib/pkgconfig",
-        "/man",
-        "/share/doc",
-        "/share/gtk-doc",
-        "/share/man",
-        "/share/pkgconfig",
-        "/share/vala",
-        "*.la",
-        "*.a"
+        "/share/gir-1.0",
+        "/share/vala"
     ],
     "modules": [
         {
