@@ -40,8 +40,8 @@
                 {
                     "type": "git",
                     "url": "https://github.com/sitraorg/sitra.git",
-                    "tag": "v0.1.1",
-                    "commit": "40f01616ce0b9d2b7ff556abccc6740fc9b0365f"
+                    "tag": "v0.1.2",
+                    "commit": "7f393ffbb4e3dd82c01f256c5768b5430f2f02b9"
                 }
             ]
         }
