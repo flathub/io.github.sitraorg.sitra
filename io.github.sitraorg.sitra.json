@@ -1,7 +1,7 @@
 {
     "id": "io.github.sitraorg.sitra",
     "runtime": "org.gnome.Platform",
-    "runtime-version": "50",
+    "runtime-version": "51",
     "sdk": "org.gnome.Sdk",
     "command": "sitra",
     "finish-args": [
@@ -40,8 +40,8 @@
                 {
                     "type": "git",
                     "url": "https://github.com/sitraorg/sitra.git",
-                    "tag": "v0.1.3",
-                    "commit": "a84ebd17a36410dffc1f1988d9813e5e7f0d5750"
+                    "tag": "v0.2.0",
+                    "commit": "4b9cbd12a7eb61f40f38cd734c09410b7fcccc9c"
                 }
             ]
         }
